@@ -1,5 +1,5 @@
 # Hourglass
-This project prints an hourglass figure in the console. All you need to do is input the size you would like, and the program will calculate the correct sizing and formatting to print the desired hourglass.
+This project prints an hourglass figure in the console. All you need to do is input the size you would like, and the program will calculate the correct sizing and formatting to print the desired hourglass. Here are some key samples taken from this project:
 # public static String base(int n) {
 		String base = "";
 		for (int i = 0;i < n; i++) {
